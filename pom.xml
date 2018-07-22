@@ -6,7 +6,7 @@
 	<groupId>br.com.paulofernandes</groupId>
 	<artifactId>tasklist-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>tasklist-api</name>
 	<description>Project tasklist-api Spring Boot</description>

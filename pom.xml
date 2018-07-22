@@ -65,7 +65,7 @@
 	</dependencies>
 
 	<build>
-<!-- 		<finalName>tasklist-api</finalName> -->
+		<finalName>tasklist-api</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
